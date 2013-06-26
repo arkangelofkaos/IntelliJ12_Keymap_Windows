@@ -1,0 +1,7 @@
+Repository for holding my Windows Keymap configuration for IntelliJ12.
+
+To use this keymap, copy it to the IntelliJ keymap configuration folder, e.g:
+
+C:\.IntelliJIdea\config\keymaps
+
+The IntelliJ config directory is specified inside your idea.properties files.
